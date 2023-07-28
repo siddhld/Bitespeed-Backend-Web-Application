@@ -13,7 +13,7 @@ Before running the application, make sure you have the following installed:
 Follow the steps below to run the Bitespeed backend web application:
 
 1. Clone this GitHub repository to your local machine using the following command:
-2. git clone https://github.com/siddhld/bitespeed.git
+2. https://github.com/siddhld/Bitespeed-Backend-Web-Application.git
 3. Import the project into your IDE (optional but recommended) and ensure all dependencies are resolved.
 4. Update the `application.properties` file with your MySQL database connection details. Open the `src/main/resources/application.properties` file and modify the following properties accordingly:
 5. The application will start, and you will see log messages indicating that the server is up and running.
